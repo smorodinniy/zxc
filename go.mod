@@ -1,5 +1,3 @@
-module github.com/smorodinniy/zxc
+module snippet
 
 go 1.22.2
-
-#hola
